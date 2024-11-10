@@ -1,68 +1,75 @@
-# 👋 Hi! I'm Pablo, also known as NitratoTri
+# 👋 Hi there! I'm Pablo, also known as NitratoTri
 
-Welcome to my GitHub profile! I am a passionate student of cross-platform application development at **Cesur** with big ambitions to become a **Full Stack Developer**. 🌐 Always looking to improve my skills and learn new technologies.
-
----
-
-## 🚀 About Me
-
-- 🎓 Studying **Multiplatform Application Development** (Vocational Training Program)
-- 💻 Working with a variety of backend and frontend technologies
-- 🎯 Goal: To become a **Full Stack Developer** 🛠
-- 🌍 Based in Murcia, Spain
-- 🌐 **Native Spanish speaker** with **advanced English proficiency**
+Welcome to my GitHub profile! I'm a student in cross-platform application development at **Cesur** with big aspirations to become a **Full Stack Developer**. 🌐 Always on the lookout for new knowledge and the chance to create amazing projects.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💫 About Me
 
-I'm proficient in a variety of languages and frameworks, including:
+- 🔭 **Currently working on** several projects, including a blogging platform in Spring Boot, a notepad app in PyQt, and a task manager in React.
+- 👯 **Open to collaborating on** unique and challenging projects. If there’s a new language or framework involved, I'm ready to learn it!
+- 🤝 **Seeking knowledge** in areas like AI, creative new features, and global tools for developers.
+- 🌱 **Currently studying** for the Oracle Java Certification, advancing in **Spring Boot**, and improving my skills in **React and TypeScript**.
+- ⚡ **Fun fact**: I work hard, hit the gym daily, and still make time to go out on weekends! 🕺
+- 🌐 **Languages**: I'm a native Spanish speaker with advanced English proficiency.
 
-| Backend        | Frontend          | Databases      | Development Tools       |
-|----------------|-------------------|----------------|--------------------------|
-| Python 🐍      | HTML & CSS 🌐     | MySQL 🗄️      | Git & GitHub 🐙         |
-| Java ☕        | JavaScript (React) ⚛️ | SQL 🧑‍💻    | Trello 📋              |
-| Spring Boot 🌱 | React ⚛️         |                | IntelliJ IDEA 🖥️      |
-| Kotlin 📱      | Sass 🎨           |                | Android Studio 📱      |
-| QT6 🎨         |                   |                | PyQt6 🎨               |
+<br>
+
+> **Note**: My GitHub contributions might look low since I use Bitbucket for work projects!
+
+---
+
+## 🛠️ Tech Stack
+
+I work with a variety of technologies across the backend, frontend, and DevOps. Here’s a snapshot:
+
+| **Backend**         | **Frontend**              | **Databases**       | **Development Tools**       |
+|---------------------|---------------------------|----------------------|-----------------------------|
+| Python 🐍           | HTML & CSS 🌐             | MySQL 🗄️            | Git & GitHub 🐙             |
+| Java ☕             | JavaScript & TypeScript 🛠 | SQL 🧑‍💻             | IntelliJ IDEA 🖥️          |
+| Spring Boot 🌱      | React ⚛️                   | MongoDB 🌍          | Android Studio 📱           |
+| Elixir 🧪           | Sass 🎨                    | SQLite 📁           | Trello 📋                   |
+| Kotlin 📱           |                           |                      | PyQt6 🎨                    |
 
 ---
 
 ## 📚 Currently Learning
 
-I’m constantly learning and improving my skills. Here are a few areas I’m currently focusing on:
+I'm always eager to expand my skills. These are some areas I’m diving into at the moment:
 
-- Deepening my knowledge in **React Hooks** to enhance my frontend projects
-- Working on **Spring Boot projects** and advanced Java practices
-- Expanding my understanding of **databases and data structures**
-
----
-
-## 📝 My Projects
-
-On my GitHub, you can find practice projects that reflect my skills and progress in different technologies. Here are a few highlights:
-
-- **[Blog in Spring Boot](#)** - A complete blog project where users can create and manage posts (Spring Boot, MySQL, Bootstrap)
-- **[Notepad App in PyQt](#)** - A GUI application for text editing built with PyQt6
-- **[Task Manager App in React](#)** - A to-do list web application with React, focused on hooks and local storage
+- **React** (exploring Hooks and complex state management with Redux)
+- **Spring Boot** projects and preparing for the Oracle Java Certification
+- **Elixir** and functional programming
+- **Data structures and algorithms** to improve problem-solving efficiency
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your username's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitratoTri&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NitratoTri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 📫 Let's Connect!
-
-I'm open to collaborating on interesting projects and always looking for opportunities to learn and grow. Feel free to reach out!
-
-- 💼 **LinkedIn**: [linkedin.com/in/NitratoTri](#)
-- ✉️ **Email**: [pabloalvarezolay@gmail.com](mailto:pabloalvarezolay@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NitratoTri&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitratoTri&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitratoTri&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
 
 ---
 
-Thanks for visiting my profile! 👋
+## ✍️ Random Dev Quote
+
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🌐 Socials
+
+Connect with me online:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NitratoTri) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/NitratoTri) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/NitratoTri)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=NitratoTri&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
