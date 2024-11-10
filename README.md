@@ -15,8 +15,6 @@ Welcome to my GitHub profile! I'm a student in cross-platform application develo
 
 <br>
 
-> **Note**: My GitHub contributions might look low since I use Bitbucket for work projects!
-
 ---
 
 ## 🛠️ Tech Stack
@@ -39,8 +37,7 @@ I'm always eager to expand my skills. These are some areas I’m diving into at 
 
 - **React** (exploring Hooks and complex state management with Redux)
 - **Spring Boot** projects and preparing for the Oracle Java Certification
-- **Elixir** and functional programming
-- **Data structures and algorithms** to improve problem-solving efficiency
+
 
 ---
 
