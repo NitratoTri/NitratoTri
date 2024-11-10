@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a student in cross-platform application develo
 - 🔭 **Currently working on** several projects, including a blogging platform in Spring Boot, a notepad app in PyQt, and a task manager in React.
 - 👯 **Open to collaborating on** unique and challenging projects. If there’s a new language or framework involved, I'm ready to learn it!
 - 🤝 **Seeking knowledge** in areas like AI, creative new features, and global tools for developers.
-- 🌱 **Currently studying** for the Oracle Java Certification, advancing in **Spring Boot**, and improving my skills in **React and TypeScript**.
+- 🌱 **Currently studying** for the Oracle Java Certification, advancing in **Spring Boot**, and improving my skills in **React**.
 - ⚡ **Fun fact**: I work hard, hit the gym daily, and still make time to go out on weekends! 🕺
 - 🌐 **Languages**: I'm a native Spanish speaker with advanced English proficiency.
 
@@ -25,9 +25,9 @@ I work with a variety of technologies across the backend, frontend, and DevOps. 
 |---------------------|---------------------------|----------------------|-----------------------------|
 | Python 🐍           | HTML & CSS 🌐             | MySQL 🗄️            | Git & GitHub 🐙             |
 | Java ☕             | JavaScript & TypeScript 🛠 | SQL 🧑‍💻             | IntelliJ IDEA 🖥️          |
-| Spring Boot 🌱      | React ⚛️                   | MongoDB 🌍          | Android Studio 📱           |
-| Elixir 🧪           | Sass 🎨                    | SQLite 📁           | Trello 📋                   |
-| Kotlin 📱           |                           |                      | PyQt6 🎨                    |
+| Spring Boot 🌱      | React ⚛️                   |           | Android Studio 📱           |
+| Kotlin 📱         | Sass 🎨                    |          | Trello 📋                   |
+|         |                           |                      | PyQt6 🎨                    |
 
 ---
 
