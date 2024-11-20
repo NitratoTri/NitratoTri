@@ -63,10 +63,7 @@ I'm always eager to expand my skills. These are some areas I’m diving into at 
 
 Connect with me online:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NitratoTri) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/NitratoTri) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/NitratoTri)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/in/NitratoTri](https://www.linkedin.com/in/pablodao/)) 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=NitratoTri&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
